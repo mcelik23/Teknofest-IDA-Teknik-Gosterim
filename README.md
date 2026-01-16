@@ -11,7 +11,7 @@ Not: Yarışma kuralları ve stratejik gizlilik prensipleri gereği, yazılım m
 Trabzon sahil şeridinde gerçekleştirilen gerçek zamanlı testler; akıntı ve dalga direncine karşı sistemin otonom stabilizasyon ve hedef takibi yeteneklerini doğrulamaktadır.
 
 <div align="center">
-  <video src="media/simulation/2026_Hibrit" width="800" controls>
+  <video src="media/simulation/2026_Hibrit.mp4" width="800" controls>
     Tarayıcınız video etiketini desteklemiyor.
   </video>
   <p><i>Saha Testi: Otonom Rota Takibi ve Manevra Kabiliyeti</i></p>
