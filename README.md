@@ -10,7 +10,7 @@ Not: Yarışma kuralları ve stratejik gizlilik prensipleri gereği, yazılım m
 
 Gazebo ve RViz ortamlarında kurgulanan simülasyonlar, gerçek dünya koşullarına geçmeden önce sistemin uç senaryolardaki karar mekanizmalarını ve sensör verisi doğrulama süreçlerini kapsamaktadır.
 
-https://github.com/mcelik23/Teknofest_IDA_Media/raw/main/media/simulation/2026_Hibrit.mp4
+https://github.com/mcelik23/Teknofest_IDA_Media/issues/1#issue-3823868632
 
 *Simülasyon Testi: Sensör Füzyonu ve Otonom Seyrüsefer Senaryosu*
 
