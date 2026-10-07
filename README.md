@@ -19,6 +19,7 @@ Aşağıdaki bağlantılar, sistemin farklı senaryolardaki otonom kabiliyetleri
 * **Entegre Şerit Takip Testi:** İşlenmiş kamera görüntüsü ve dış çekim analizi.  
   [Görüntüle](https://github.com/mcelik23/Teknofest_IDA_Media/issues/7#issue-3824038112)
 * **Dış Çekim Kayıtları:**
+  * [Teknofest 2026 Kamikaze ve Engelli Ortamda Şerit Takibi Görevleri](https://github.com/mcelik23/Teknofest-IDA-Teknik-Gosterim/issues/13)
   * [Şerit Takibi - Senaryo 1](https://github.com/mcelik23/Teknofest_IDA_Media/issues/8#issue-3824093923)
   * [Şerit Takibi - Senaryo 2](https://github.com/mcelik23/Teknofest_IDA_Media/issues/9#issue-3824099173)
   * [Şerit Takibi - Senaryo 3](https://github.com/mcelik23/Teknofest_IDA_Media/issues/10#issue-3824105874)
