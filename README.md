@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.jpeg" alt="Teknofest İnsansız Deniz Aracı (İDA) Banner" width="100%">
+</p>
+
 # Teknofest İnsansız Deniz Aracı (İDA)
 
 Bu depo; Teknofest İDA yarışması kapsamında kaptanlığını üstlendiğim ekibimizce geliştirilen otonom deniz aracının teknik ispatlarını sunar. İçerik; nesne tespiti tabanlı seyrüsefer algoritmalarımızın simülasyon ve saha ortamlarındaki performans çıktılarını kapsamaktadır.
