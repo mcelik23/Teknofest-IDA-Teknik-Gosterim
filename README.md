@@ -11,7 +11,7 @@ Bu depo; Teknofest İDA yarışması kapsamında kaptanlığını üstlendiğim 
 Aşağıdaki bağlantılar, sistemin farklı senaryolardaki otonom kabiliyetlerini doğrudan oynatılabilir formatta sunmaktadır:
 
 ### 1. Simülasyon Çalışmaları
-**Temel Hareket Komutları Testi:** (Ardışıl kare rota ve slalom görevi)  
+***Temel Hareket Komutları Testi:** (Ardışıl kare rota ve slalom görevi)  
   [Görüntüle](https://github.com/mcelik23/Teknofest_IDA_Media/issues/3#issue-3823981460)
 * **Engelli Ortamda Şerit Takip Görevi:** [Görüntüle](https://github.com/mcelik23/Teknofest_IDA_Media/issues/11#issue-3824326221)
 
