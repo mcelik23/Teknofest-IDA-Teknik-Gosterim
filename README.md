@@ -18,7 +18,7 @@ Aşağıdaki bağlantılar, sistemin farklı senaryolardaki otonom kabiliyetleri
 * **Temel Hareket Komutları Testi:** (Ardışıl kare rota ve slalom görevi)  [Görüntüle](https://github.com/mcelik23/Teknofest_IDA_Media/issues/3#issue-3823981460)
 * **Engelli Ortamda Şerit Takip Görevi:** [Görüntüle](https://github.com/mcelik23/Teknofest_IDA_Media/issues/11#issue-3824326221)
 
-### 2. Saha Testleri (Real-Time)
+### 2. Saha Testleri
 * **Entegre Şerit Takip Testi:** İşlenmiş kamera görüntüsü ve dış çekim analizi.  
   * [Görüntüle](https://github.com/mcelik23/Teknofest_IDA_Media/issues/7#issue-3824038112)
 * **Dış Çekim Kayıtları:**
